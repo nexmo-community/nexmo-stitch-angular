@@ -1,0 +1,14 @@
+.login {
+    text-align: center;
+}
+.mat-spinner {
+    width: 20px !important;
+    height: 20px !important;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+/deep/ .mat-spinner svg{
+    width: 20px !important;
+    height: 20px !important;
+}
