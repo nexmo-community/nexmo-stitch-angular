@@ -22,7 +22,7 @@
     "@angular/material": "^5.2.4",
     "@angular/platform-browser": "^5.2.0",
     "@angular/platform-browser-dynamic": "^5.2.0",
-    "@angular/router": "^5.2.0",
+    "@angular/router": "^10.2.5",
     "core-js": "^2.4.1",
     "nexmo-conversation": "^0.1.20",
     "rxjs": "^5.5.6",
